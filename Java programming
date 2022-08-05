@@ -1,0 +1,5 @@
+Class Java{
+public static void {
+System.out.println(Java programming);
+}
+}
